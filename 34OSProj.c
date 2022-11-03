@@ -1,14 +1,3 @@
-/*
-Group 34
-Deepti Kumar 2018B5A70790H
-Aswath Vinayak K 2018B4A70713H
-Sankalamaddy Ruthvik Reddy 2018B4A70701H
-Kartheek Sivavarma Nadimpalli 2018B4A70922H
-Anirudh A 2018B4A70936H
-Sanath Salil 2018B4A70812H
-Eva Tiwari 2018B5A70816H
-Srirampur Shreya 2018B4A70886H
-*/
 
 #include<stdio.h>
 #include<errno.h>
