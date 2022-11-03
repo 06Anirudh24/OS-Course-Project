@@ -1,2 +1,2 @@
 # OS-Course-Project
-FCFS and RR Scheduling
+Implementation of First Come First Serve (FCFS) and Round Robin (RR) Schedulings using C. 
